@@ -1,0 +1,71 @@
+.Watch_logo
+{
+    text-align: center;
+}
+.Watch_Description{
+    color: orange;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.Para_man
+{
+    color: #000;
+    
+    margin: 0 auto 40px;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: normal;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.Img_man
+{
+    width: 70%;
+    margin-top: 5rem;
+}
+
+.Para_man
+{
+    width: 39rem;
+}
+.cta-links {
+    margin-top: 2rem;
+   
+}
+.ProdeuctPreview
+{
+    margin: auto;
+}
+@media only screen and (max-width: 600px) {
+   .Para_man
+   {
+    width: fit-content;
+   }
+   .Img_man
+   {
+    width: 100%;
+   }
+   .MainContainer
+   {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: inherit;
+   }
+   .ProdeuctPreview > img {
+   width: fit-content;
+   width: 100%;
+}
+.ProductData {
+    width: 100%;
+}
+.link-container {
+    font-size: 12px;
+    margin-top: 2rem;
+}
+.cta-links
+{
+    margin: auto;
+}
+      
+    }
