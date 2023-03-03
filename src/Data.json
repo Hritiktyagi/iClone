@@ -1,0 +1,19 @@
+[
+    {
+      "link": "http://localhost:3000/iphone",
+      "title": "iphone 14"
+    },
+    {
+      "link": "http://localhost:3000/watch",
+      "title": "watch ultra"
+    },
+    {
+      "link": "http://localhost:3000/ipad",
+      "title": "ipad"
+    },
+    {
+      "link": "http://localhost:3000/",
+      "title": "Macbook"
+    }
+  ]
+  
